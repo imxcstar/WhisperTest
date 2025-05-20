@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WhisperTest": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\14546\\Downloads\\ggml-large-v3-turbo.bin\""
+    }
+  }
+}
